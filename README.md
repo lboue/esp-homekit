@@ -4,6 +4,12 @@ Apple HomeKit accessory server library for
 
 See [esp-homekit-demo](https://github.com/maximkulkin/esp-homekit-demo) for examples.
 
+
+## Dependencies
+```
+sudo pip3 install qrcode
+```
+
 ## Building for ESP-IDF >= 4.0
 
 In ESP-IDF >= 4.0 there is a SPI flash write protection that checks if area written
